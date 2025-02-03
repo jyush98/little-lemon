@@ -9,6 +9,7 @@ pymysql = "*"
 cryptography = "*"
 djangorestframework = "*"
 python-dotenv = "*"
+djoser = "*"
 
 [dev-packages]
 
